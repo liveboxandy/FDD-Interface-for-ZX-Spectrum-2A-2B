@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FDD_Interface")(type "KiCad")(uri "${KIPRJMOD}/Symbols/FDD_Interface.kicad_sym")(options "")(descr ""))
+)
